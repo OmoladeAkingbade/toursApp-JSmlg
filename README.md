@@ -1,1 +1,1 @@
-## React Projects Starter APP
+## Tours App built with React
